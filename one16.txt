@@ -1,0 +1,9 @@
+Testing Program 16
+
+check two16.txt after executing program 16
+
+IF YOU SEE THIS LINE IN LOWER CASE IT WORKED
+if you see this line in upper case it worked 
+
+if you see commas below it worked 
+...................................
