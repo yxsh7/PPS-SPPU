@@ -2,6 +2,12 @@
 # SPPU PPS SOLVED (FE 2019 Syllabus)
 
 Laboratory Experiments/Assignments given in  Programming and Problem Solving (PPS) given by Savitribai Phule Pune University (SPPU) for FE 2019 Syllabus are available in this repository.
+## RUN LOCALLY 
+
+  [DOWNLOAD ZIP](https://github.com/yxsh7/SPPU_PPS_SOLVED/archive/refs/heads/main.zip)
+ 
+
+
 ## Made with <3 by
 - [Yash.K](https://github.com/yxsh7)
 
