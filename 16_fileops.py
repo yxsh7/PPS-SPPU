@@ -4,13 +4,13 @@ a)  all  full  stops  are  to  be  replaced with  commas
 b)  lower  case  are  to  be  replaced  with  upper  case  
 c)  upper  case  are  to  be replaced with lower case.
 """
-# SPECIFY YOUR TEXT FILE LOCATION
+# IMPORTANT!!! SPECIFY YOUR TEXT FILE LOCATION OR PROGRAM WILL NOT WORK
 filename = "C:\YASH\CODE\PYTHON\MMCOE\one16.txt"
 try:
     # Open file in read mode
     first = open(filename,"r") 
     # Automatically creates new text file
-    second = open("two16.txt","w")
+    second = open("16_two.txt","w")
 
     for line in first:
         # Replaces fullstop with comma
