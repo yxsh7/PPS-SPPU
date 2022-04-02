@@ -21,3 +21,5 @@ for item in num_list:
         odd_numbers.append(int(item))
 
 print(even_numbers, odd_numbers)
+
+# GITHUB: yxsh7

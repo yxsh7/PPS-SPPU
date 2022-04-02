@@ -22,6 +22,8 @@ with open (filename,"r") as file:
 print("Number of characters are:", num_of_char - 2) # -2 FOR REMOVING \n being counted as characters 
 print("Number of words are:", num_of_words)
 print("Number of Lines are:", num_of_lines)
+
+# GITHUB: yxsh7
          
 
      

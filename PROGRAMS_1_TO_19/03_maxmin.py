@@ -24,3 +24,5 @@ print("Maximum is", maximum,)
 print("Minimum is", minimum)
 print("Sum is", total)
 print("Average is", average)
+
+# GITHUB: yxsh7

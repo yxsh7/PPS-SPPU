@@ -31,3 +31,5 @@ elif marks < 40 and marks >= 0:
     print("Fail", marks, "%")
 else:
     print("Invalid Input")
+
+# GITHUB: yxsh7

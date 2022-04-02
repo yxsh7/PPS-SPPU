@@ -9,4 +9,6 @@ decimal = int(num, 2)
 
 print(decimal)
 
+# GITHUB: yxsh7
+
 

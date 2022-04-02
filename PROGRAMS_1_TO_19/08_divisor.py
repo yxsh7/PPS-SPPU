@@ -13,6 +13,8 @@ gcd = math.gcd(num1,num2)
 
 print("LCM of the numbers is", lcm, "GCD of the numbers is", gcd)
 
+# GITHUB: yxsh7
+
 
 
 

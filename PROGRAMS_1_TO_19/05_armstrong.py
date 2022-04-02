@@ -24,3 +24,5 @@ if number == sum:
     print(number,"is an Armstrong number")
 else:
     print(number,"is not an Armstrong Number")
+
+# GITHUB: yxsh7

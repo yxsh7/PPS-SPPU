@@ -14,3 +14,6 @@ momentum = object_mass * (Velocity * Velocity)
 
 # DISPLAY 
 print("MOMENTUM =", momentum)
+
+# GITHUB: yxsh7
+

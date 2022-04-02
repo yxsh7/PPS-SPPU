@@ -48,4 +48,3 @@ else:
 print("Your Answer is", result)
 
 # GITHUB: yxsh7
-# 13-02-2022

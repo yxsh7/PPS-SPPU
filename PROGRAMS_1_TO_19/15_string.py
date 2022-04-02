@@ -40,3 +40,5 @@ if str == str2:
     print("Both strings are equal \n")
 else:
     print("Both strings are unequal \n")
+
+# GITHUB: yxsh7
