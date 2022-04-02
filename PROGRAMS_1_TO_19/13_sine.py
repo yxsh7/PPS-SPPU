@@ -15,4 +15,6 @@ for i in range(n):
     s = s + ((y**(2.0*i+1))/math.factorial(2*i+1))*sign
 print(round(s,2))
 
+# GITHUB: yxsh7
+
 
