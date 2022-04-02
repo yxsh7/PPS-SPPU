@@ -2,7 +2,7 @@
 To  count  total  characters  in  file,  total  words  in  file,  total  lines  in  file  and  frequency  of 
 given word in file.
 """
-# SPECIFY YOUR TEXT FILE LOCATION
+#  IMPORTANT!!! SPECIFY YOUR TEXT FILE LOCATION OR PROGRAM WILL NOT WORK
 filename = "C:\YASH\CODE\PYTHON\MMCOE/program17.txt"
 
 # Declare 
