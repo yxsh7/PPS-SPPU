@@ -8,7 +8,7 @@ Laboratory Experiments/Assignments given in  Programming and Problem Solving (PP
  
 
 
-## Made with <3 by
+## Made by
 - [Yash.K](https://github.com/yxsh7)
 
 
