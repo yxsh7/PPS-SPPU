@@ -19,10 +19,10 @@ TAX = basic_pay * (2/100)
 net_salary = basic_pay + HRA + TA - TAX
 
 # DISPLAY
-print(HRA)
-print(TA)
-print(TAX)
-print(net_salary)
+print("HRA",HRA)
+print("TA",TA)
+print("TAX",TAX)
+print("NET SALARY",net_salary)
 
 # GITHUB: yxsh7
 
