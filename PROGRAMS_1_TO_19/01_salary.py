@@ -6,7 +6,7 @@ payable after deductions.
 """
 
 # INPUT
-basic_pay = int(input("Enter Salary"))
+basic_pay = int(input("Enter Salary: "))
 
 # CALCULATE 
 
@@ -14,15 +14,18 @@ HRA = basic_pay * (10/100)
 
 TA = basic_pay * (5/100)
 
+gross_sal = basic_pay + HRA + TA
+
 TAX = basic_pay * (2/100)
 
-net_salary = basic_pay + HRA + TA - TAX
+net_salary = gross_sal - TAX
 
 # DISPLAY
-print(HRA)
-print(TA)
-print(TAX)
-print(net_salary)
+print("HRA: ",HRA)
+print("TA: ",TA)
+print("GROSS SALARY: ", gross_sal)
+print("PROFESSIONAL TAX: ",TAX)
+print("NET SALARY: ",net_salary)
 
 # GITHUB: yxsh7
 
