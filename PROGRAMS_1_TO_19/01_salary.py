@@ -27,5 +27,6 @@ print("GROSS SALARY: ", gross_sal)
 print("PROFESSIONAL TAX: ",TAX)
 print("NET SALARY: ",net_salary)
 
+
 # GITHUB: yxsh7
 
